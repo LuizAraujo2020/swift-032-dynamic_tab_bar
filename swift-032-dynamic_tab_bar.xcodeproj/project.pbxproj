@@ -50,6 +50,7 @@
 		6F9901C6270F22C900F3B954 /* YellowViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YellowViewController.xib; sourceTree = "<group>"; };
 		6F9901C9270F22D700F3B954 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 		6F9901CA270F22D700F3B954 /* GreennViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GreennViewController.xib; sourceTree = "<group>"; };
+		6F9901CD270F34B700F3B954 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 		6F99018F270E7FB800F3B954 = {
 			isa = PBXGroup;
 			children = (
+				6F9901CD270F34B700F3B954 /* README.md */,
 				6F99019A270E7FB800F3B954 /* swift-032-dynamic_tab_bar */,
 				6F990199270E7FB800F3B954 /* Products */,
 			);
