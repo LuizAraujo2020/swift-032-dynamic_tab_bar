@@ -13,6 +13,19 @@
 		6F9901A3270E7FB800F3B954 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901A1270E7FB800F3B954 /* Main.storyboard */; };
 		6F9901A5270E7FBB00F3B954 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901A4270E7FBB00F3B954 /* Assets.xcassets */; };
 		6F9901A8270E7FBB00F3B954 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901A6270E7FBB00F3B954 /* LaunchScreen.storyboard */; };
+		6F9901B1270E80EA00F3B954 /* TabBar.json in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901B0270E80EA00F3B954 /* TabBar.json */; };
+		6F9901B4270E8ED300F3B954 /* TabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901B3270E8ED300F3B954 /* TabBarItem.swift */; };
+		6F9901B9270E905C00F3B954 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901B7270E905C00F3B954 /* TabBarController.swift */; };
+		6F9901BA270E905C00F3B954 /* TabBarController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901B8270E905C00F3B954 /* TabBarController.xib */; };
+		6F9901BC270E925A00F3B954 /* TabBarManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901BB270E925900F3B954 /* TabBarManager.swift */; };
+		6F9901BF270E999F00F3B954 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901BD270E999F00F3B954 /* BlueViewController.swift */; };
+		6F9901C0270E999F00F3B954 /* BlueViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901BE270E999F00F3B954 /* BlueViewController.xib */; };
+		6F9901C3270F22B000F3B954 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901C1270F22B000F3B954 /* RedViewController.swift */; };
+		6F9901C4270F22B000F3B954 /* RedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901C2270F22B000F3B954 /* RedViewController.xib */; };
+		6F9901C7270F22C900F3B954 /* YellowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901C5270F22C900F3B954 /* YellowViewController.swift */; };
+		6F9901C8270F22C900F3B954 /* YellowViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901C6270F22C900F3B954 /* YellowViewController.xib */; };
+		6F9901CB270F22D700F3B954 /* CyanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9901C9270F22D700F3B954 /* CyanViewController.swift */; };
+		6F9901CC270F22D700F3B954 /* CyanViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F9901CA270F22D700F3B954 /* CyanViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		6F9901A4270E7FBB00F3B954 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F9901A7270E7FBB00F3B954 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F9901A9270E7FBB00F3B954 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F9901B0270E80EA00F3B954 /* TabBar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = TabBar.json; sourceTree = "<group>"; };
+		6F9901B3270E8ED300F3B954 /* TabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarItem.swift; sourceTree = "<group>"; };
+		6F9901B7270E905C00F3B954 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		6F9901B8270E905C00F3B954 /* TabBarController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TabBarController.xib; sourceTree = "<group>"; };
+		6F9901BB270E925900F3B954 /* TabBarManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarManager.swift; sourceTree = "<group>"; };
+		6F9901BD270E999F00F3B954 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		6F9901BE270E999F00F3B954 /* BlueViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BlueViewController.xib; sourceTree = "<group>"; };
+		6F9901C1270F22B000F3B954 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
+		6F9901C2270F22B000F3B954 /* RedViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RedViewController.xib; sourceTree = "<group>"; };
+		6F9901C5270F22C900F3B954 /* YellowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowViewController.swift; sourceTree = "<group>"; };
+		6F9901C6270F22C900F3B954 /* YellowViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YellowViewController.xib; sourceTree = "<group>"; };
+		6F9901C9270F22D700F3B954 /* CyanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyanViewController.swift; sourceTree = "<group>"; };
+		6F9901CA270F22D700F3B954 /* CyanViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CyanViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +86,56 @@
 				6F99019D270E7FB800F3B954 /* SceneDelegate.swift */,
 				6F99019F270E7FB800F3B954 /* ViewController.swift */,
 				6F9901A1270E7FB800F3B954 /* Main.storyboard */,
+				6F9901B6270E902D00F3B954 /* Control */,
+				6F9901B5270E902400F3B954 /* View */,
+				6F9901B2270E8EA500F3B954 /* Model */,
+				6F9901AF270E80BC00F3B954 /* Misc */,
 				6F9901A4270E7FBB00F3B954 /* Assets.xcassets */,
 				6F9901A6270E7FBB00F3B954 /* LaunchScreen.storyboard */,
 				6F9901A9270E7FBB00F3B954 /* Info.plist */,
 			);
 			path = "swift-032-dynamic_tab_bar";
+			sourceTree = "<group>";
+		};
+		6F9901AF270E80BC00F3B954 /* Misc */ = {
+			isa = PBXGroup;
+			children = (
+				6F9901B0270E80EA00F3B954 /* TabBar.json */,
+			);
+			path = Misc;
+			sourceTree = "<group>";
+		};
+		6F9901B2270E8EA500F3B954 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6F9901B3270E8ED300F3B954 /* TabBarItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6F9901B5270E902400F3B954 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6F9901B6270E902D00F3B954 /* Control */ = {
+			isa = PBXGroup;
+			children = (
+				6F9901B7270E905C00F3B954 /* TabBarController.swift */,
+				6F9901B8270E905C00F3B954 /* TabBarController.xib */,
+				6F9901BB270E925900F3B954 /* TabBarManager.swift */,
+				6F9901BD270E999F00F3B954 /* BlueViewController.swift */,
+				6F9901BE270E999F00F3B954 /* BlueViewController.xib */,
+				6F9901C1270F22B000F3B954 /* RedViewController.swift */,
+				6F9901C2270F22B000F3B954 /* RedViewController.xib */,
+				6F9901C5270F22C900F3B954 /* YellowViewController.swift */,
+				6F9901C6270F22C900F3B954 /* YellowViewController.xib */,
+				6F9901C9270F22D700F3B954 /* CyanViewController.swift */,
+				6F9901CA270F22D700F3B954 /* CyanViewController.xib */,
+			);
+			path = Control;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +196,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F9901C0270E999F00F3B954 /* BlueViewController.xib in Resources */,
 				6F9901A8270E7FBB00F3B954 /* LaunchScreen.storyboard in Resources */,
 				6F9901A5270E7FBB00F3B954 /* Assets.xcassets in Resources */,
+				6F9901CC270F22D700F3B954 /* CyanViewController.xib in Resources */,
+				6F9901C4270F22B000F3B954 /* RedViewController.xib in Resources */,
+				6F9901C8270F22C900F3B954 /* YellowViewController.xib in Resources */,
+				6F9901BA270E905C00F3B954 /* TabBarController.xib in Resources */,
 				6F9901A3270E7FB800F3B954 /* Main.storyboard in Resources */,
+				6F9901B1270E80EA00F3B954 /* TabBar.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,7 +217,14 @@
 			files = (
 				6F9901A0270E7FB800F3B954 /* ViewController.swift in Sources */,
 				6F99019C270E7FB800F3B954 /* AppDelegate.swift in Sources */,
+				6F9901B4270E8ED300F3B954 /* TabBarItem.swift in Sources */,
+				6F9901BC270E925A00F3B954 /* TabBarManager.swift in Sources */,
+				6F9901C3270F22B000F3B954 /* RedViewController.swift in Sources */,
+				6F9901B9270E905C00F3B954 /* TabBarController.swift in Sources */,
 				6F99019E270E7FB800F3B954 /* SceneDelegate.swift in Sources */,
+				6F9901C7270F22C900F3B954 /* YellowViewController.swift in Sources */,
+				6F9901BF270E999F00F3B954 /* BlueViewController.swift in Sources */,
+				6F9901CB270F22D700F3B954 /* CyanViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +301,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -272,7 +356,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -297,6 +381,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -325,6 +410,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
