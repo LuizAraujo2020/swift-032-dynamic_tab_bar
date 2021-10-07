@@ -27,7 +27,7 @@
         <!--Yellow View Controller-->
         <scene sceneID="ft1-Di-AuB">
             <objects>
-                <viewController storyboardIdentifier="yellow" id="37Q-wg-aAe" customClass="YellowViewController" customModule="swift_032_dynamic_tab_bar" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="yellow" id="37Q-wg-aAe" customClass="YellowViewController" customModule="swift_032_dynamic_tab_bar" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ujp-RC-eqf">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -39,10 +39,10 @@
             </objects>
             <point key="canvasLocation" x="-21" y="820"/>
         </scene>
-        <!--Cyan View Controller-->
+        <!--Green View Controller-->
         <scene sceneID="36g-ks-MEA">
             <objects>
-                <viewController storyboardIdentifier="cyan" id="AeN-67-jXz" customClass="CyanViewController" customModule="swift_032_dynamic_tab_bar" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="green" id="AeN-67-jXz" customClass="GreenViewController" customModule="swift_032_dynamic_tab_bar" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="VhK-Id-pLG">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -57,7 +57,7 @@
         <!--Red View Controller-->
         <scene sceneID="djd-R2-GQn">
             <objects>
-                <viewController storyboardIdentifier="red" id="Zsm-j1-EHC" customClass="RedViewController" customModule="swift_032_dynamic_tab_bar" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="red" id="Zsm-j1-EHC" customClass="RedViewController" customModule="swift_032_dynamic_tab_bar" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="aog-aV-OXb">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

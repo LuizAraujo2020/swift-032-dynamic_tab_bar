@@ -17,19 +17,43 @@
     },
     {
         "storyboardName": "Main",
+        "controllerName": "green",
+        "image": "leaf",
+        "selectedImage": "leaf.fill",
+        "order": 2,
+        "title": "Green"
+    },
+    {
+        "storyboardName": "Main",
         "controllerName": "yellow",
         "image": "star",
         "selectedImage": "star.fill",
-        "order": 2,
+        "order": 3,
         "title": "Yellow"
     },
     {
         "storyboardName": "Main",
-        "controllerName": "cyan",
+        "controllerName": "blue",
+        "image": "flag",
+        "selectedImage": "flag.fill",
+        "order": 4,
+        "title": "Blue"
+    },
+    {
+        "storyboardName": "Main",
+        "controllerName": "green",
         "image": "leaf",
         "selectedImage": "leaf.fill",
-        "order": 3,
-        "title": "Cyan"
+        "order": 5,
+        "title": "Green"
+    },
+    {
+        "storyboardName": "Main",
+        "controllerName": "yellow",
+        "image": "star",
+        "selectedImage": "star.fill",
+        "order": 6,
+        "title": "Yellow"
     }
 ]
    
